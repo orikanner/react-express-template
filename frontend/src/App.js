@@ -1,10 +1,10 @@
 import { AuthProvider } from "./context/AuthContext";
-import { Navbar } from "./componenets/Navbar";
+import { Navbar } from "./componentes/Navbar";
 import { Route, Routes, Navigate } from "react-router-dom";
-import { Home } from "./componenets/Home";
-import { Profile } from "./componenets/Profile";
-import { Login } from "./componenets/Login";
-import { RequireAuth } from "./componenets/RequireAuth";
+import { Home } from "./componentes/Home";
+import { Profile } from "./componentes/Profile";
+import { Login } from "./componentes/Login";
+import { RequireAuth } from "./componentes/RequireAuth";
 
 function App() {
   return (
