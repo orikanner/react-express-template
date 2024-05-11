@@ -1,1 +1,1 @@
-react-authContext-express basic template for future use
+React-AuthContext-Express Template
